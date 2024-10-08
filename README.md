@@ -9,10 +9,11 @@ The following Python packages were used in this project:
 - `pandas`
 - `numpy`
 - `matplotlib`
+- `pandasql`
 
 Make sure to install these packages before running the notebook:
 ```bash
-! pip install pandas numpy matplotlib
+! pip install pandas numpy matplotlib pandasql
 ```
 
 ## First: explore the data
