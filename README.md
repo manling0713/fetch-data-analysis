@@ -2,6 +2,18 @@
 
 This project is part of a take-home assignment for a Data Analyst role at Fetch. The goal of this analysis is to explore, clean, and derive insights from product, user, and transaction data in order to identify key trends and address any data quality issues.
 
+## Python Packages Used
+
+The following Python packages were used in this project:
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+
+Make sure to install these packages before running the notebook:
+```bash
+! pip install pandas numpy matplotlib
+```
 
 ## First: explore the data
 
